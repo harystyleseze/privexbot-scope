@@ -193,8 +193,9 @@ privexbot/
 
 4. **Developer/Engineer**
 
-   * Wants helpdesk bot trained on API docs
-   * Uses Gitbook + Slack + webhook integrations
+   * Wants helpdesk bot trained on API or technical docs
+   * Help visitors or anyone ask specific questions about the ecosystem or from the doc
+   * Uses web embeds, slack, or webhook integrations for deployment
 
 ### 🧭 User Journey Example
 
@@ -214,9 +215,9 @@ privexbot/
 
 ### 🛡️ Privacy-First Customer Support Bot
 
-* Trained on support docs, product manuals, FAQs
-* Handles chat, escalates to live agent, creates tickets or send email to a dedicated email address
-* Deployed on website + Discord
+* Trained on support docs, product manuals, Tech doc, FAQs
+* Handles chat/questions, escalates to live agent, creates tickets or send email to a dedicated email address
+* Deployed on website, Discord, etc
 
 ### 🧠 Internal Knowledge Assistant (for Teams/DAOs)
 
