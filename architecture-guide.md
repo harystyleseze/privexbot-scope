@@ -965,14 +965,13 @@ privexbot/
      
 ```
 
-### 🧱 Why This Structure? (For Beginners)
+### Structure Overview
 
 - **Frontend**: What users see and interact with
 - **Backend**: The brain that processes requests and manages data.
 - **AI Service**: A specialized service dedicated to AI processing
 - **Plugin Daemon**: Manages add-on and workflow features
 - **Infrastructure**: Handles deployment, networking, and configuration
-
 
 ---
 
