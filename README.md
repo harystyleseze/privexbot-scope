@@ -10,7 +10,7 @@
 
 **PrivexBot** is a privacy-focused, secure chatbot builder platform that empowers organizations to build and deploy AI-powered chatbots trained on their own data. Unlike traditional platforms, all AI workloads—including training, inference, and data ingestion—are executed within **Secret Network’s Trusted Execution Environments (TEEs)** using **Secret VMs**, ensuring **confidential computation**, **compliance**, and **zero data leakage**.
 
-PrivexBot enables multi-platform chatbot deployment via embeddable widgets, Discord, Telegram, WhatsApp, Slack, or even custom-hosted URLs. Teams, enterprises, and agencies can easily create, manage, and distribute custom AI assistants (powered by  **Secret AI LLM**) with full control over data, plugins, and workflow logic.
+PrivexBot enables multi-platform chatbot deployment via embeddable widgets, Discord, Telegram, WhatsApp, Slack, or even custom-hosted URLs. Teams, enterprises, and agencies can easily create, manage, and distribute custom AI assistants (powered by  **Secret AI**) with full control over data, plugins, and workflow logic.
 
 ---
 
