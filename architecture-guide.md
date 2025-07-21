@@ -962,17 +962,17 @@ privexbot/
     └── security/                         # Security tests
         ├── auth-security.test.py
         ├── data-encryption.test.py
-        └── smart-contract-security.test.rs
+     
 ```
 
-### Why This Structure? (For Beginners)
+### 🧱 Why This Structure? (For Beginners)
 
-**Frontend**: Think of this as your website - what users see and interact with
-**Backend**: The brain that processes requests and manages data
-**AI-Service**: Specialized service just for AI processing (like having a dedicated AI expert)
-**Plugin-Daemon**: Manages add-on features (like an app store manager)
-**Smart-Contracts**: The blockchain code that handles payments and tracking (written in Rust for CosmWasm)
-**Infrastructure**: The "house" everything lives in (servers, databases, etc.)
+- **Frontend**: What users see and interact with
+- **Backend**: The brain that processes requests and manages data.
+- **AI Service**: A specialized service dedicated to AI processing
+- **Plugin Daemon**: Manages add-on and workflow features
+- **Infrastructure**: Handles deployment, networking, and configuration
+
 
 ---
 
@@ -1085,7 +1085,7 @@ graph TD
 
     I --> L[Review Plan Features]
     L --> M[Payment Method Selection]
-    M --> N[SCRT/SNIP-20 Payment]
+    M --> N[SCRT/SNIP-20/Crypto Payment]
     N --> O[Transaction Confirmation]
     O --> P[Plan Activated]
     P --> Q[Send Confirmation Email]
