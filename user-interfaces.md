@@ -23,6 +23,11 @@ Users can customize the behavior, set instructions, and deploy the chatbot on:
 * Custom domain
 
 
+## Chatbot Reviews
+
+View logs, reviews or feedbacks based on the performance of your chatbot
+
+![Chatbot Reviews](./privexbot-assets/chatbot-reviews.png)
 ---
 
 ## Knowledge Source Page
