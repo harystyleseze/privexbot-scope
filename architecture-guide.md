@@ -9,7 +9,7 @@
 
 ---
 
-## Complete Project Structure
+## Project Structure
 
 ```
 privexbot/
