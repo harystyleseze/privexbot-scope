@@ -134,6 +134,8 @@ These are the main UI components the users will interact with, organized by func
 | **Agency Portal**     | Tools for agencies to create, manage, and monetize client bots with deployment tracking.               |
 | **Referral Program**  | Share referral links, track invites, and earn rewards for bringing new users when they upgrade plan    |
 
+[See mock images for the UI](./user-interfaces.md)
+
 ---
 
 ## 📂 System Architecture & Folder Structure
