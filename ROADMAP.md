@@ -35,7 +35,7 @@
 | ----------------------- | ------------------------------------------------------------------------------- |
 | Chatbot Setup Wizard    | UI flow for name, base prompt, Secret AI model, configuration - temperature, visibility                   |
 | File Upload Support     | `.pdf`, `.txt`, `.docx`, `.xlsx`, `.csv` with processing backend                |
-| URL Crawler             | Input a URL → scrape content using backend         |
+| URL Crawler             | Input a URL → scrape content         |
 | Manual Text Input       | Text editor to paste or write knowledge base content                            |
 | Google Docs/Sheets Sync | OAuth + polling/webhook setup (Google API integration)                       |
 | Notion Sync             | Use Notion API to fetch pages, with authentication and sync                     |
